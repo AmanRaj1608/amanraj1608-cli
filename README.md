@@ -1,6 +1,6 @@
 <p align="center"><img src="./example.jpg" width="400"></p>
 <h2 align="center">amanraj1608-cli</h2>
-<p align="center">just a portfolio cli</p>
+<p align="center">just a cli</p>
 
 ### Use
 

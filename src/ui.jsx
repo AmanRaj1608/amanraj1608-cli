@@ -13,6 +13,7 @@ function menu() {
   const handleSelect = item => {
     if (item.url) {
       open(item.url);
+      setVal("none");
     }
     else if (item.action) {
       item.action();
