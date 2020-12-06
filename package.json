@@ -1,0 +1,40 @@
+{
+  "name": "amanraj1608",
+  "version": "1.0.0",
+  "description": "Portfolio cli of @AmanRaj1608",
+  "homepage": "https://amanraj.me/",
+  "bugs": "https://github.com/AmanRaj1608/amanraj1608-cli/issues",
+  "scripts": {
+    "start": "node ./src/app.js"
+  },
+  "license": "MIT",
+  "keywords": [
+    "Aman Raj",
+    "portfolio",
+    "amanraj1608"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AmanRaj1608/amanraj1608-cli/"
+  },
+  "files": [
+    "src/*"
+  ],
+  "bin": {
+    "amanraj1608": "./src/app.js"
+  },
+  "dependencies": {
+    "react": "^17.0.1",
+    "ink": "^3.0.8",
+    "import-jsx": "^4.0.0",
+    "ink-big-text": "^1.2.0",
+    "ink-select-input": "^4.2.0",
+    "ink-gradient": "^2.0.0",
+    "open": "^7.3.0"
+  },
+  "author": {
+    "name": "Aman Raj",
+    "email": "archanaamanraj@gmail.com",
+    "url": "https://amanraj.me/"
+  }
+}
