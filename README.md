@@ -16,4 +16,4 @@ npx amanraj1608
 
 ---
 
-[❤️ Thanks](https://amanraj.me/thanks)
+[❤️ Thanks](https://amanraj.dev/thanks)
